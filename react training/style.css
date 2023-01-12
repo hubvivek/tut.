@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Font+Name");
+ *{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    font-family: 'lato';
+    background:none;
+    color:inherit;
+    border:none;
+    outline:inherit;
+    font: inherit;
+ }
+
+a {
+    text-decoration:none;
+    color :inherit;
+}
+#amazon_logo {
+    padding-right:100px;
+    border:1px dashed green;
+}
+.logo {
+    height:70px;
+    width:120px;
+}
+.logo_txt {
+    color:#444BAB;
+    font-size:32px;
+    font-family:'sofia sans', sans-serif;
+     font-weight: 700;
+     border:5px solid red;
+     padding :5px 100px;
+     
+ }
+ #c_txt {
+    
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+      }
+      
+ 
